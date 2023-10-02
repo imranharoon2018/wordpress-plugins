@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wklw\n"
+"POT-Creation-Date: 2021-07-24 01:01+0600\n"
+"PO-Revision-Date: 2021-07-24 01:02+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\xx39\\wp-content\\plugins"
+"\\wp_kinky_line\n"
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/action_functions.php:232
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_users_list_functions.php:67
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_dashboard.php:49
+msgid "Service Number"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/action_functions.php:246
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_users_list_functions.php:63
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_dashboard.php:48
+msgid "Private Number"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_nav_menu_functions.php:10
+msgid "Login"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_nav_menu_functions.php:16
+msgid "Logout"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_verify_file.php:14
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wp_kinky_line.php:92
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wp_kinky_line.php:115
+msgid "Use jpeg, jpg, png format"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_verify_file.php:30
+msgid "File is empty"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_verify_file.php:33
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wp_kinky_line.php:91
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wp_kinky_line.php:114
+msgid "File is too big"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/worker_functions.php:63
+msgid "This username is not valid"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/worker_functions.php:67
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wp_kinky_line.php:90
+msgid "Passwords does not match"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/worker_functions.php:72
+msgid "Choose a Different User name"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/worker_functions.php:77
+msgid "First Name cannot be empty"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/worker_functions.php:81
+msgid "Surname cannot be empty"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/worker_functions.php:85
+msgid "Address cannot be empty"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/worker_functions.php:89
+msgid "Address2 cannot be empty"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/worker_functions.php:93
+msgid "Id Cannot be empty"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/worker_functions.php:98
+msgid "An account already use this Id No"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/worker_functions.php:128
+msgid "An account already use this Phone No"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/worker_functions.php:132
+msgid "This fomat is not allowed"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/worker_functions.php:136
+msgid "An account already use this Email"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_dashboard.php:44
+msgid "Details"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_dashboard.php:46
+msgid "Online Status"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_dashboard.php:47
+msgid "Display Name"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_dashboard.php:48
+msgid "Please contact us if you want to change Private Number"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_dashboard.php:50
+msgid "Call rate"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_dashboard.php:51
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:147
+msgid "Avatar"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_dashboard.php:59
+msgid "Save"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_listing.php:23
+msgid "Offline"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_listing.php:27
+msgid "Call Me Now"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:7
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:10
+msgid "Username"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:19
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:22
+msgid "Password"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:32
+msgid "Re-type Password"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:35
+msgid "Retype Password"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:44
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:47
+msgid "Email"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:56
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:59
+msgid "First Name"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:67
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:70
+msgid "Surname"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:78
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:81
+msgid "ID No."
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:89
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:92
+msgid "Phone No."
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:101
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:104
+msgid "Address"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:112
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:115
+msgid "Address(line. 2)"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:125
+msgid "ID Card Front"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:136
+msgid "ID Card Back"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_signup.php:168
+msgid "Submit"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_thankyou.php:4
+msgid "Thank you for Sigining up with us"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_thankyou.php:5
+msgid "Click Here"
+msgstr ""
+
+#: D:\xampp\htdocs\xx39\wp-content\plugins\wp_kinky_line/wklw_screens/wklw_thankyou.php:5
+msgid "to login"
+msgstr ""

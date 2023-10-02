@@ -1,0 +1,183 @@
+* {
+  box-sizing: border-box;
+}
+
+.wklw_container * input[type=text],.wklw_container * select, .wklw_container  * textarea ,.wklw_container * input[type=email]  ,.wklw_container * input[type=password]{
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+  
+}
+
+.wklw_container *  label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+
+.wklw_container * input[type=submit] {
+  margin-top:10px;
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+
+}
+
+.wklw_container * input[type=submit]:hover {
+
+  background-color: #45a049;
+}
+
+.wklw_container {
+  border-radius: 5px;
+  /*background-color: #f2f2f2;*/
+  padding: 20px;
+}
+.wklw_container .wklw_row  .col-100{
+  
+  width: 100%;
+  
+
+}
+.wklw_container .wklw_row .wklw_dashboard_header{
+	
+}
+.wklw_container .wklw_row .wklw_dashboard_header h3{
+	margin:auto;
+	
+	text-align:center;
+}
+.wklw_container	.wklw_row .buttoncontainer{
+	margin:auto;
+	
+	text-align:center;
+	margin-top:10px;	
+	margin-bottom:30px;
+}
+
+.wklw_container	.wklw_row .buttoncontainer form{
+	display:inline;
+}
+.wklw_container	.wklw_row .buttoncontainer form input.btn_offline{
+	background-color:#cb4114;
+}
+.wklw_container	.wklw_row .buttoncontainer form input.btn_online{
+	background-color:#2cba26;
+}
+.wklw_container	.wklw_row .buttoncontainer form input.btn_offline:hover ,.wklw_container	.wklw_row .buttoncontainer form input.btn_online:hover{
+	background-color: #ad854d;
+	color:white;
+}
+ .wklw_container form .wklw_row  .col-100{
+  
+  width: 100%;
+  margin-top: 6px;
+  padding-left:13%;
+
+}
+ .wklw_container form .wklw_row  .col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+  padding-left:13%;
+}
+
+ .wklw_container form .wklw_row  .col-75 {
+  float: left;
+  width: 75%;
+  margin-top: 6px;
+}
+ .wklw_container form .wklw_row  .col-50 {
+  float: left;
+  width: 50%;
+  margin-top: 6px;
+}
+ .wklw_container form .wklw_row  .col-35 {
+  float: left;
+  width: 35%;
+  margin-top: 6px;
+}
+ .wklw_container form .wklw_row  .col-40 {
+  float: left;
+  width: 40%;
+  margin-top: 6px;
+}
+ .wklw_container form .wklw_row  .submit_row {
+  margin:auto;
+}
+
+.wklw_container form .wklw_row  .error_column{
+	/*padding-right:10px;*/
+}
+.wklw_container form .wklw_row  .error_column label{
+	margin-left:20px;
+	color:red;
+	font-size:12px;
+}
+
+
+/* Clear floats after the columns */
+.wklw_row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+   .wklw_container form .wklw_row  .col-35, .wklw_container form .wklw_row  .col-40,  .wklw_container form .wklw_row  .col-50, .wklw_container form .wklw_row  .col-25,  .wklw_container form .wklw_row  .col-75, .wklw_container * input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+
+div.entry-content div.artist_account_page   {
+	display:flex;
+}
+
+
+div.entry-content div.artist_account_page  div.wklw_sidenav {
+  height: 100%;
+  width: 140px;
+  /*position: fixed;*/
+  /*z-index: 1;
+  top: 0;
+  left: 0;*/
+  /*background-color: #111;*/
+  /*overflow-x: hidden;*/
+  padding-top: 20px;
+}
+
+div.entry-content div.artist_account_page  div.wklw_sidenav a.selected {
+	color:red;
+}
+div.entry-content div.artist_account_page  div.wklw_sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 14px;
+/*  color: #818181;*/
+  display: block;
+}
+
+div.entry-content div.artist_account_page  div.wklw_sidenav a:hover {
+  color: green;
+}
+
+div.entry-content div.artist_account_page div.wklw_artist_page_content {
+  /*margin-left: 160px;*/ /* Same as the width of the sidenav */
+  font-size: 14px; /* Increased text to enable scrolling */
+  padding: 20px 10px;
+}
+
+@media screen and (max-height: 450px) {
+div.entry-content div.artist_account_page  div.wklw_sidenav sidenav {padding-top: 15px;}
+ div.entry-content div.artist_account_page  div.wklw_sidenav sidenav a {font-size: 18px;}
+}
+
+.wklw_container{
+
+}

@@ -1,0 +1,53 @@
+div.wpai_fd_desc{
+		/* border:1px solid red; */
+}
+div.wpai_fd_attachment{
+	
+	/* border:1px solid blue; */
+}
+
+div.wpai_fd_attachment h2.wpai_fd_attachment_header{
+	/* border:1px solid green; */
+}
+
+div.wpai_fd_attachment  ul.wpai_fd_attachment_ul{
+	/* border:1px solid orange; */
+}
+
+
+div.wpai_fd_attachment  ul.wpai_fd_attachment_ul  li.wpai_fd_attachment_li{
+	/* border:1px solid violet; */
+}
+
+div.wpai_fd_attachment  ul.wpai_fd_attachment_ul  li.wpai_fd_attachment_li> a.wpai_fd_attachment_link{
+	/* border:1px solid violet; */
+}
+
+div.wpai_fd_params{
+	/* border:1px solid black; */
+}
+
+div.wpai_fd_params  h2.wpai_fd_params_header{
+	/* border:1px solid orange; */
+	
+}
+
+div.wpai_fd_params  ul.wpai_fd_params_ul{
+	/* border:1px solid blue; */
+	
+}
+
+
+div.wpai_fd_params  ul.wpai_fd_params_ul  li.wpai_fd_params_li{
+	/* border:1px solid red; */
+}
+
+div.wpai_fd_manufacturer{
+	border:1px solid blue;
+}
+div.wpai_fd_manufacturer a{
+	border:1px solid red;
+}
+
+
+
